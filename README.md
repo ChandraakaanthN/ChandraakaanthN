@@ -9,7 +9,7 @@
 
 ## 🛠️ About Me
 
-- 🎓 **Undergraduate** in Computer Science (3rd Year) with a major in **AIML**.
+- 🎓 **Undergraduate** in Computer Science (Final Year) with a major in **AIML**.
 - 💻 Specialized in **MERN Stack Development** (MongoDB, Express.js, React, Node.js).
 - 🌟 Doing **DSA** and solving problems in **Competitive Programming**.
 - 🌱 Currently learning **Next.js** and **DevOps tools** like Docker and Jenkins.
