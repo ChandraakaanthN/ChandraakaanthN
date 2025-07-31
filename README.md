@@ -65,10 +65,12 @@
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React
     </td>
-    <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
+       <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
     </td>
+    
+    
     <td align="center" width="98">
   <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
   <br>Redux
@@ -80,18 +82,8 @@
   
   </tr>
   <tr>
-      <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
-      <br>Oracle
-    </td>
+   
+    
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
@@ -100,13 +92,6 @@
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
-    <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
-      <br>Jenkins
-    </td>
+
   </tr>
 </table>
